@@ -1,0 +1,423 @@
+{
+    "schema_version": 2,
+    "oldId": "-M5YzZCvsyqKoIC7-Muo",
+    "name": "Redcap",
+    "avatar": "https://s3.amazonaws.com/files.d20.io/images/106620052/MQf0gsjtuIrpzmsIMwMCLA/max.png?1583396336",
+    "bio": "",
+    "gmnotes": "",
+    "defaulttoken": "{\"left\":2962.540047114252,\"top\":1842.540047114252,\"width\":43.08009422850412,\"height\":43.08009422850412,\"imgsrc\":\"https://s3.amazonaws.com/files.d20.io/images/106620052/MQf0gsjtuIrpzmsIMwMCLA/max.png?1583396336\",\"page_id\":\"-KwfcNCleGCDAO5Qe9pa\",\"layer\":\"objects\",\"name\":\"Redcap\",\"represents\":\"-M5YzZCvsyqKoIC7-Muo\",\"bar1_value\":\"10\",\"bar2_value\":\"14\",\"bar3_value\":\"0\",\"bar3_max\":\"20\",\"showname\":true,\"lastmove\":\"2892.5,1842.5\"}",
+    "tags": "[]",
+    "controlledby": "",
+    "inplayerjournals": "-KishQVARFPLbj7DB53a",
+    "attribs": [
+        {
+            "name": "version",
+            "current": "7",
+            "max": "",
+            "id": "-M5YzZEXwmNF_lZspC8_"
+        },
+        {
+            "name": "character_sheet",
+            "current": "Shadow of the Demon Lord v7",
+            "max": "",
+            "id": "-M5YzZEXwmNF_lZspC8a"
+        },
+        {
+            "name": "tab",
+            "current": "npc",
+            "max": "",
+            "id": "-M5YzZEYqRkx6SD-howy"
+        },
+        {
+            "name": "show_settings",
+            "current": "0",
+            "max": "",
+            "id": "-M5YzZEZQaVLb2UAcP8T"
+        },
+        {
+            "name": "output_option",
+            "current": "/w GM",
+            "max": "",
+            "id": "-M5YzZEZQaVLb2UAcP8U"
+        },
+        {
+            "name": "npc",
+            "current": "1",
+            "max": "",
+            "id": "-M5YzZEZQaVLb2UAcP8V"
+        },
+        {
+            "name": "banes_from_afflictions",
+            "current": "0",
+            "max": "",
+            "id": "-M5YzZEZQaVLb2UAcP8W"
+        },
+        {
+            "name": "auto_speed",
+            "current": "0",
+            "max": "",
+            "id": "-M5YzZEabVk3D19D15HS"
+        },
+        {
+            "name": "speed_display",
+            "current": "10",
+            "max": "",
+            "id": "-M5YzZEabVk3D19D15HT"
+        },
+        {
+            "name": "defense",
+            "current": "14",
+            "max": "",
+            "id": "-M5YzZEbkGHCujQmxaCw"
+        },
+        {
+            "name": "edit_mode",
+            "current": "0",
+            "max": "",
+            "id": "-M5YzZEbkGHCujQmxaCx"
+        },
+        {
+            "name": "name",
+            "current": "Redcap",
+            "max": "",
+            "id": "-M5YzdLR20Rqm5z5Wzj3"
+        },
+        {
+            "name": "difficulty",
+            "current": "5",
+            "max": "",
+            "id": "-M5YzdQb5FVnZV6yiXLz"
+        },
+        {
+            "name": "size",
+            "current": "1/4",
+            "max": "",
+            "id": "-M5YzeeOmeCsbOtYw4yT"
+        },
+        {
+            "name": "tags",
+            "current": "faerie",
+            "max": "",
+            "id": "-M5YzewAXZMNEfyZuOh_"
+        },
+        {
+            "name": "perception",
+            "current": "12",
+            "max": "",
+            "id": "-M5YzfLohTRr9TQ9mP6k"
+        },
+        {
+            "name": "perception_mod",
+            "current": 2,
+            "max": "",
+            "id": "-M5YzfNRw8Hn1qsQsEZ5"
+        },
+        {
+            "name": "special_senses",
+            "current": "shadowsight",
+            "max": "",
+            "id": "-M5YzfruxQaXpJsTOgi5"
+        },
+        {
+            "name": "defense_input",
+            "current": "14",
+            "max": "",
+            "id": "-M5Yzg_UNvlKSywqZBJY"
+        },
+        {
+            "name": "health",
+            "current": "20",
+            "max": "",
+            "id": "-M5YzhXFLR37moWG6oGK"
+        },
+        {
+            "name": "has_insanity",
+            "current": "1",
+            "max": "",
+            "id": "-M5YzhYTFV-RZntab9Qf"
+        },
+        {
+            "name": "damage",
+            "current": "",
+            "max": "20",
+            "id": "-M5Yzh_GdTkz-25ZvVI7"
+        },
+        {
+            "name": "healing_rate",
+            "current": 5,
+            "max": "",
+            "id": "-M5Yzh_O5QNTnVrm00Ti"
+        },
+        {
+            "name": "has_corruption",
+            "current": "1",
+            "max": "",
+            "id": "-M5Yzhj8dA8Q89V05mIv"
+        },
+        {
+            "name": "insanity",
+            "current": "3",
+            "max": "",
+            "id": "-M5Yzikoya2JwgmWH2sZ"
+        },
+        {
+            "name": "corruption",
+            "current": "4",
+            "max": "",
+            "id": "-M5Yzj5-iXY7gaaIM3M6"
+        },
+        {
+            "name": "strength",
+            "current": "12",
+            "max": "",
+            "id": "-M5YzkGnPz60rDleUKRJ"
+        },
+        {
+            "name": "strength_mod",
+            "current": 2,
+            "max": "",
+            "id": "-M5YzkIWADoanct40Xkm"
+        },
+        {
+            "name": "finesse_mod",
+            "current": 4,
+            "max": "",
+            "id": "-M5YzkIbwMA1AtUyBEOX"
+        },
+        {
+            "name": "agility",
+            "current": "14",
+            "max": "",
+            "id": "-M5YzkUtJze_j5mUH3XG"
+        },
+        {
+            "name": "agility_mod",
+            "current": 4,
+            "max": "",
+            "id": "-M5YzkWaTxrBcP6sXiRW"
+        },
+        {
+            "name": "intellect",
+            "current": "10",
+            "max": "",
+            "id": "-M5Yzkc8awGYEjxjmQNE"
+        },
+        {
+            "name": "intellect_mod",
+            "current": 0,
+            "max": "",
+            "id": "-M5Yzkdq_tY2aX7ubf1_"
+        },
+        {
+            "name": "will",
+            "current": "13",
+            "max": "",
+            "id": "-M5YzlkPu45BhlCZTfsq"
+        },
+        {
+            "name": "will_mod",
+            "current": 3,
+            "max": "",
+            "id": "-M5Yzlm84EWuYTulBpye"
+        },
+        {
+            "name": "repeating_npctraits_-M5YzltlWRvTQMG26pu-_npctrait_name",
+            "current": "Immune",
+            "max": "",
+            "id": "-M5YznFama11U7BGNpMw"
+        },
+        {
+            "name": "repeating_npctraits_-M5YzltlWRvTQMG26pu-_npctrait_description",
+            "current": "damage from disease; charmed, diseased",
+            "max": "",
+            "id": "-M5YznX2fC_FvkphdOFl"
+        },
+        {
+            "name": "repeating_npctraits_-M5Yzndeh6Ardwto-EF0_npctrait_name",
+            "current": "Spell Defense",
+            "max": "",
+            "id": "-M5YzpioyiApc0_BEInZ"
+        },
+        {
+            "name": "repeating_npctraits_-M5Yzndeh6Ardwto-EF0_npctrait_description",
+            "current": "A redcap takes half damage from spells and makes any challenge roll to resist a spell with 1 boon. \nA creature attacking the redcap with a spell makes the attack roll with 1 bane.",
+            "max": "",
+            "id": "-M5YzpzVpmxWaOPnm5Fb"
+        },
+        {
+            "name": "repeating_npctraits_-M5YzsGQ8pZxqzDxpPkJ_npctrait_name",
+            "current": "Iron Vulnerability",
+            "max": "",
+            "id": "-M5Yzt5mVSOhR-lKdXIm"
+        },
+        {
+            "name": "repeating_npctraits_-M5YzsGQ8pZxqzDxpPkJ_npctrait_description",
+            "current": "A redcap is impaired when in contact with iron.",
+            "max": "",
+            "id": "-M5YztXPSCq0snnMObs_"
+        },
+        {
+            "name": "repeating_attacks_-M5YztcukU9nOkJMQFOn_attack_name",
+            "current": "Razor",
+            "max": "",
+            "id": "-M5YzuBAoQ900lNEyzMX"
+        },
+        {
+            "name": "repeating_attacks_-M5YztcukU9nOkJMQFOn_attack_range",
+            "current": "melee",
+            "max": "",
+            "id": "-M5YzumvLjLk_ofPQ8BG"
+        },
+        {
+            "name": "repeating_attacks_-M5YztcukU9nOkJMQFOn_attack_formula",
+            "current": "@{die_attack} + @{attack_mod} + @{attack_boons_formula}@{die_boon}k1[boons/banes]",
+            "max": "",
+            "id": "-M5YzuoancyFu5hnQo9T"
+        },
+        {
+            "name": "repeating_attacks_-M5YztcukU9nOkJMQFOn_attack_boons_formula",
+            "current": "[[@{boons_banes_query} + @{attack_boons} + @{global_attack_boons} - @{banes_from_afflictions}]]",
+            "max": "",
+            "id": "-M5Yzuogx1sEl4y5buxw"
+        },
+        {
+            "name": "repeating_attacks_-M5YztcukU9nOkJMQFOn_attack_reach",
+            "current": "0",
+            "max": "",
+            "id": "-M5Yzupg7pINc-rfTsg4"
+        },
+        {
+            "name": "repeating_attacks_-M5YztcukU9nOkJMQFOn_attack_mod",
+            "current": "4",
+            "max": "",
+            "id": "-M5Yzv4lQq8lea7gEeej"
+        },
+        {
+            "name": "repeating_attacks_-M5YztcukU9nOkJMQFOn_attack_boons",
+            "current": "1",
+            "max": "",
+            "id": "-M5YzvFPH3eb0LxAfK1D"
+        },
+        {
+            "name": "repeating_attacks_-M5YztcukU9nOkJMQFOn_attack_boons_display",
+            "current": "1 boon",
+            "max": "",
+            "id": "-M5YzvH4mSt1FYOzO3mW"
+        },
+        {
+            "name": "repeating_attacks_-M5YztcukU9nOkJMQFOn_attack_damage",
+            "current": "1d6",
+            "max": "",
+            "id": "-M5Yzvo4JhH2iO8ZlXIY"
+        },
+        {
+            "name": "has_specialactions",
+            "current": "1",
+            "max": "",
+            "id": "-M5YzvpphTvtFakxHH1c"
+        },
+        {
+            "name": "repeating_specialactions_-M5YzvwD5bQ03XZZzFlU_specialaction_name",
+            "current": "Speedy Boots",
+            "max": "",
+            "id": "-M5YzyK6Ph7jjPGe-vkX"
+        },
+        {
+            "name": "repeating_specialactions_-M5YzvwD5bQ03XZZzFlU_specialaction_description",
+            "current": "The redcap uses an action or a triggered action on its turn to move up to four times its Speed.",
+            "max": "",
+            "id": "-M5YzyiMYAfijp3wC0Bw"
+        },
+        {
+            "name": "repeating_specialactions_-M5YzzxADLBlHHjA6UGZ_specialaction_name",
+            "current": "Murderous Pursuit",
+            "max": "",
+            "id": "-M5Z-0qrVd18fnuLwu6z"
+        },
+        {
+            "name": "repeating_specialactions_-M5YzzxADLBlHHjA6UGZ_specialaction_description",
+            "current": "When a creature within the redcap’s reach moves away from it, the redcap can use a triggered action to move up to its Speed toward the triggering creature. The redcap makes attack rolls with 1 boon against that creature for 1 round.",
+            "max": "",
+            "id": "-M5Z-27d9EnCrto5P9S0"
+        }
+    ],
+    "abilities": [
+        {
+            "name": "0:Razor",
+            "description": "",
+            "istokenaction": true,
+            "action": "%{@{character_id}|repeating_attacks_$0_Roll}",
+            "order": -1
+        },
+        {
+            "name": "1:Speedy-Boots",
+            "description": "",
+            "istokenaction": true,
+            "action": "%{@{character_id}|repeating_specialactions_$0_Roll}",
+            "order": -1
+        },
+        {
+            "name": "2:Murderous-Pursuit",
+            "description": "",
+            "istokenaction": true,
+            "action": "%{@{character_id}|repeating_specialactions_$1_Roll}",
+            "order": -1
+        },
+        {
+            "name": "3:Challenge-Rolls",
+            "description": "",
+            "istokenaction": true,
+            "action": "/w gm [Strength](~New Ability 0)[Agility](~New Ability 1)[Intellect](~New Ability 2)[Will](~New Ability 3)",
+            "order": -1
+        },
+        {
+            "name": "4:Immune",
+            "description": "",
+            "istokenaction": true,
+            "action": "%{@{character_id}|repeating_npctraits_$0_Roll}",
+            "order": -1
+        },
+        {
+            "name": "5:Spell-Defense",
+            "description": "",
+            "istokenaction": true,
+            "action": "%{@{character_id}|repeating_npctraits_$1_Roll}",
+            "order": -1
+        },
+        {
+            "name": "6:Iron-Vulnerability",
+            "description": "",
+            "istokenaction": true,
+            "action": "%{@{character_id}|repeating_npctraits_$2_Roll}",
+            "order": -1
+        },
+        {
+            "name": "New Ability 0",
+            "description": "",
+            "istokenaction": false,
+            "action": "%{@{character_id}|Strength}",
+            "order": -1
+        },
+        {
+            "name": "New Ability 1",
+            "description": "",
+            "istokenaction": false,
+            "action": "%{@{character_id}|Agility}",
+            "order": -1
+        },
+        {
+            "name": "New Ability 2",
+            "description": "",
+            "istokenaction": false,
+            "action": "%{@{character_id}|Intellect}",
+            "order": -1
+        },
+        {
+            "name": "New Ability 3",
+            "description": "",
+            "istokenaction": false,
+            "action": "%{@{character_id}|Will}",
+            "order": -1
+        }
+    ]
+}

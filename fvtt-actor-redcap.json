@@ -1,0 +1,317 @@
+{
+  "name": "Redcap",
+  "type": "creature",
+  "img": "https://s3.amazonaws.com/files.d20.io/images/106620052/MQf0gsjtuIrpzmsIMwMCLA/max.png?1583396336",
+  "data": {
+    "description": "",
+    "fastturn": false,
+    "activebonuses": false,
+    "attributes": {
+      "strength": {
+        "value": 12,
+        "modifier": 0,
+        "min": 1,
+        "max": 20
+      },
+      "agility": {
+        "value": 14,
+        "modifier": 0,
+        "min": 1,
+        "max": 20
+      },
+      "intellect": {
+        "value": 10,
+        "modifier": 0,
+        "min": 1,
+        "max": 20
+      },
+      "will": {
+        "value": 13,
+        "modifier": 0,
+        "min": 1,
+        "max": 20
+      },
+      "perception": {
+        "value": 12,
+        "modifier": 0,
+        "min": 1,
+        "max": 20
+      }
+    },
+    "characteristics": {
+      "health": {
+        "max": 20,
+        "value": 0,
+        "injured": false,
+        "healingrate": 0
+      },
+      "defense": 14,
+      "size": "1",
+      "speed": 10,
+      "power": 0,
+      "insanity": {
+        "min": 0,
+        "max": 0,
+        "value": 0
+      },
+      "corruption": 0,
+      "fortune": 0,
+      "editbar": false
+    },
+    "afflictionsTab": {
+      "hideAction": false,
+      "hideAfflictions": false,
+      "hideDamageEffects": false
+    },
+    "sections": {
+      "showtraits": true,
+      "showattackoptions": true,
+      "showspecialattack": true,
+      "showspecialactions": true,
+      "showmagic": true,
+      "showendofround": true,
+      "showdescription": true
+    },
+    "edit": false,
+    "difficulty": 0,
+    "frightening": false,
+    "horrifying": false,
+    "descriptor": "",
+    "perceptionsenses": "",
+    "speedtraits": "",
+    "armor": ""
+  },
+  "token": {
+    "name": "Redcap",
+    "img": "https://s3.amazonaws.com/files.d20.io/images/106620052/MQf0gsjtuIrpzmsIMwMCLA/max.png?1583396336",
+    "displayName": 20,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "scale": 1,
+    "mirrorX": false,
+    "mirrorY": false,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "vision": false,
+    "dimSight": 0,
+    "brightSight": 0,
+    "sightAngle": 0,
+    "light": {
+      "alpha": 0.5,
+      "angle": 0,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "gradual": true,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "characteristics.health"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "_id": null,
+    "actorId": null,
+    "actorData": {},
+    "x": 0,
+    "y": 0,
+    "elevation": 0,
+    "effects": [],
+    "hidden": false
+  },
+  "items": [
+    {
+      "_id": "i1pQNToFgCjL27uY",
+      "name": "Immune",
+      "type": "feature",
+      "img": "icons/containers/bags/sack-cloth-tan.webp",
+      "data": {
+        "description": "<p>damage from disease; charmed, diseased</p>"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "KW6XDTTvkV8qWXT9": 3
+      },
+      "flags": {}
+    },
+    {
+      "_id": "Tyx3NftyqdWEjujD",
+      "name": "Spell Defense",
+      "type": "feature",
+      "img": "icons/containers/bags/sack-cloth-tan.webp",
+      "data": {
+        "description": "<p>A redcap takes half damage from spells and makes any challenge roll to resist a spell with 1 boon.&nbsp;</p>"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "KW6XDTTvkV8qWXT9": 3
+      },
+      "flags": {}
+    },
+    {
+      "_id": "jHSrA9xHW9Bg2Tpn",
+      "name": "Iron Vulnerability",
+      "type": "feature",
+      "img": "icons/containers/bags/sack-cloth-tan.webp",
+      "data": {
+        "description": "<p>A redcap is impaired when in contact with iron.</p>"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "KW6XDTTvkV8qWXT9": 3
+      },
+      "flags": {}
+    },
+    {
+      "_id": "o2YMcnGtepQhYMba",
+      "name": "Speedy Boots",
+      "type": "specialaction",
+      "img": "systems/demonlord/assets/icons/skills/fist.webp",
+      "data": {
+        "description": "<p>The redcap uses an action or a triggered action on its turn to move up to four times its Speed.</p>"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "KW6XDTTvkV8qWXT9": 3
+      },
+      "flags": {}
+    },
+    {
+      "_id": "3ryi1iRatbkzb6AC",
+      "name": "Murderous Pursuit",
+      "type": "specialaction",
+      "img": "systems/demonlord/assets/icons/skills/fist.webp",
+      "data": {
+        "description": "<p>When a creature within the redcap&rsquo;s reach moves away from it, the redcap can use a triggered action to move up to its Speed toward the triggering creature. The redcap makes attack rolls with 1 boon against that creature for 1 round.</p>"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "KW6XDTTvkV8qWXT9": 3
+      },
+      "flags": {}
+    },
+    {
+      "_id": "cekVzEI9OCBYj2wF",
+      "name": "Razor",
+      "type": "weapon",
+      "img": "systems/demonlord/assets/icons/weapons/swords/sword11.webp",
+      "data": {
+        "description": "",
+        "action": {
+          "active": true,
+          "attack": "Agility",
+          "against": "Defense",
+          "damageactive": true,
+          "damage": "1d6",
+          "damagetype": "slashing",
+          "boonsbanesactive": true,
+          "boonsbanes": "1",
+          "plus20active": true,
+          "plus20": "",
+          "plus20damage": "",
+          "defense": "",
+          "defenseboonsbanes": "",
+          "damagetypes": [],
+          "strengthboonsbanesselect": false,
+          "agilityboonsbanesselect": false,
+          "intellectboonsbanesselect": false,
+          "willboonsbanesselect": false,
+          "perceptionboonsbanesselect": false,
+          "extraeffect": ""
+        },
+        "activatedEffect": {
+          "activation": {
+            "type": "",
+            "cost": 0
+          },
+          "duration": {
+            "value": 0,
+            "type": ""
+          },
+          "target": {
+            "value": "",
+            "type": ""
+          },
+          "texture": "",
+          "range": "",
+          "uses": {
+            "value": 0,
+            "max": 0,
+            "per": null
+          }
+        },
+        "enchantment": {
+          "attackbonus": 0,
+          "challengebonus": 0,
+          "damage": "",
+          "defense": 0,
+          "speed": 0,
+          "perception": 0,
+          "effect": "",
+          "uses": {
+            "value": 0,
+            "max": 0
+          }
+        },
+        "hands": "",
+        "properties": "",
+        "strengthmin": "",
+        "wear": true,
+        "quantity": 1,
+        "availability": "C",
+        "value": ""
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "permission": {
+        "default": 0,
+        "KW6XDTTvkV8qWXT9": 3
+      },
+      "flags": {}
+    }
+  ],
+  "effects": [],
+  "flags": {
+    "exportSource": {
+      "world": "a-dance-with-father-death",
+      "system": "demonlord",
+      "coreVersion": "9.269",
+      "systemVersion": "2.0.3"
+    }
+  }
+}

@@ -1,0 +1,761 @@
+{
+    "schema_version": 2,
+    "oldId": "-M5_v_a4JE0yE5eT-cTB",
+    "name": "Apprentice Wizard",
+    "avatar": "https://cdn.discordapp.com/attachments/478643901750706179/702781265673191494/Apprentice_Wizard.png",
+    "bio": "",
+    "gmnotes": "",
+    "defaulttoken": "{\"left\":3325,\"top\":1785,\"width\":70,\"height\":70,\"imgsrc\":\"https://cdn.discordapp.com/attachments/478643901750706179/702781265673191494/Apprentice_Wizard.png\",\"page_id\":\"-KwfcNCleGCDAO5Qe9pa\",\"layer\":\"objects\",\"name\":\"Apprentice Wizard\",\"represents\":\"-M5_v_a4JE0yE5eT-cTB\",\"bar1_value\":\"10\",\"bar2_value\":\"10\",\"bar3_value\":\"0\",\"bar3_max\":\"13\",\"showname\":true,\"lastmove\":\"3395,1785\"}",
+    "tags": "[]",
+    "controlledby": "",
+    "inplayerjournals": "-KishQVARFPLbj7DB53a",
+    "attribs": [
+        {
+            "name": "version",
+            "current": "7",
+            "max": "",
+            "id": "-M5_v_bhJijyur1c8d-a"
+        },
+        {
+            "name": "character_sheet",
+            "current": "Shadow of the Demon Lord v7",
+            "max": "",
+            "id": "-M5_v_bhJijyur1c8d-b"
+        },
+        {
+            "name": "tab",
+            "current": "npc",
+            "max": "",
+            "id": "-M5_v_bhJijyur1c8d-c"
+        },
+        {
+            "name": "show_settings",
+            "current": "0",
+            "max": "",
+            "id": "-M5_v_biEFGJJ9PRpdxJ"
+        },
+        {
+            "name": "output_option",
+            "current": "/w GM",
+            "max": "",
+            "id": "-M5_v_biEFGJJ9PRpdxK"
+        },
+        {
+            "name": "npc",
+            "current": "1",
+            "max": "",
+            "id": "-M5_v_bjJ6kCfF-PhKoC"
+        },
+        {
+            "name": "banes_from_afflictions",
+            "current": "0",
+            "max": "",
+            "id": "-M5_v_bjJ6kCfF-PhKoD"
+        },
+        {
+            "name": "auto_speed",
+            "current": "0",
+            "max": "",
+            "id": "-M5_v_bkf-ofw9sJEnoT"
+        },
+        {
+            "name": "speed_display",
+            "current": "10",
+            "max": "",
+            "id": "-M5_v_bkf-ofw9sJEnoU"
+        },
+        {
+            "name": "defense",
+            "current": "10",
+            "max": "",
+            "id": "-M5_v_bkf-ofw9sJEnoV"
+        },
+        {
+            "name": "edit_mode",
+            "current": "0",
+            "max": "",
+            "id": "-M5_v_bkf-ofw9sJEnoW"
+        },
+        {
+            "name": "name",
+            "current": "Apprentice Wizard",
+            "max": "",
+            "id": "-M5a-sJFGPtuNwYtuHKC"
+        },
+        {
+            "name": "difficulty",
+            "current": "5",
+            "max": "",
+            "id": "-M5a-s_y-pfGHcDRx26a"
+        },
+        {
+            "name": "size",
+            "current": "1/2 or 1",
+            "max": "",
+            "id": "-M5a-tMpNqhoB0y6oige"
+        },
+        {
+            "name": "tags",
+            "current": "human",
+            "max": "",
+            "id": "-M5a-tr6RDOjASV6VVH9"
+        },
+        {
+            "name": "perception",
+            "current": "12",
+            "max": "",
+            "id": "-M5a-u3ZAUVuBm9wORNp"
+        },
+        {
+            "name": "perception_mod",
+            "current": 2,
+            "max": "",
+            "id": "-M5a-u5DUrsY7kLLlZsW"
+        },
+        {
+            "name": "defense_input",
+            "current": "10",
+            "max": "",
+            "id": "-M5a-ucJ9UUKhsouKB1u"
+        },
+        {
+            "name": "health",
+            "current": "13",
+            "max": "",
+            "id": "-M5a-wXUFSytckJiUwJF"
+        },
+        {
+            "name": "damage",
+            "current": "",
+            "max": "13",
+            "id": "-M5a-wZCNHTXNvPpYzma"
+        },
+        {
+            "name": "healing_rate",
+            "current": 3,
+            "max": "",
+            "id": "-M5a-wZKoKLZLWlaWv14"
+        },
+        {
+            "name": "strength",
+            "current": "9",
+            "max": "",
+            "id": "-M5a-wpy0QVbhWHFy-E4"
+        },
+        {
+            "name": "strength_mod",
+            "current": -1,
+            "max": "",
+            "id": "-M5a-wrfZyo3L0AlYUdU"
+        },
+        {
+            "name": "finesse_mod",
+            "current": 0,
+            "max": "",
+            "id": "-M5a-wrju_cARlzRZM59"
+        },
+        {
+            "name": "agility",
+            "current": "10",
+            "max": "",
+            "id": "-M5a-x0N_L1YXW9ACbxm"
+        },
+        {
+            "name": "agility_mod",
+            "current": 0,
+            "max": "",
+            "id": "-M5a-x23nhPOJeglcZKj"
+        },
+        {
+            "name": "intellect",
+            "current": "12",
+            "max": "",
+            "id": "-M5a-x9z3Tuq-05XOR5b"
+        },
+        {
+            "name": "intellect_mod",
+            "current": 2,
+            "max": "",
+            "id": "-M5a-xBiryttTTuxSd6i"
+        },
+        {
+            "name": "will",
+            "current": "12",
+            "max": "",
+            "id": "-M5a-yB4rx3RbwkQ4aJG"
+        },
+        {
+            "name": "will_mod",
+            "current": 2,
+            "max": "",
+            "id": "-M5a-yCj6sMdk7TfOhUM"
+        },
+        {
+            "name": "repeating_attacks_-M5a-yI8-bgG5oE06OdL_attack_name",
+            "current": "Staff",
+            "max": "",
+            "id": "-M5a-yjGjnb57wCLm56a"
+        },
+        {
+            "name": "repeating_attacks_-M5a-yI8-bgG5oE06OdL_attack_range",
+            "current": "melee",
+            "max": "",
+            "id": "-M5a-zHVy9Ejb0gPDOvG"
+        },
+        {
+            "name": "repeating_attacks_-M5a-yI8-bgG5oE06OdL_attack_formula",
+            "current": "@{die_attack} + @{attack_mod} + @{attack_boons_formula}@{die_boon}k1[boons/banes]",
+            "max": "",
+            "id": "-M5a-zJD_pda5Xy3Ctum"
+        },
+        {
+            "name": "repeating_attacks_-M5a-yI8-bgG5oE06OdL_attack_boons_formula",
+            "current": "[[@{boons_banes_query} + @{attack_boons} + @{global_attack_boons} - @{banes_from_afflictions}]]",
+            "max": "",
+            "id": "-M5a-zJIAaMQdAPwuHDr"
+        },
+        {
+            "name": "repeating_attacks_-M5a-yI8-bgG5oE06OdL_attack_reach",
+            "current": "0",
+            "max": "",
+            "id": "-M5a-zJScvZoAUZsG9q9"
+        },
+        {
+            "name": "repeating_attacks_-M5a-yI8-bgG5oE06OdL_attack_mod",
+            "current": "0",
+            "max": "",
+            "id": "-M5a-zLRZfKHNbEYMFQT"
+        },
+        {
+            "name": "repeating_attacks_-M5a-yI8-bgG5oE06OdL_attack_boons",
+            "current": "0",
+            "max": "",
+            "id": "-M5a-zXBpJWg-lW5klCm"
+        },
+        {
+            "name": "repeating_attacks_-M5a-yI8-bgG5oE06OdL_attack_boons_display",
+            "current": "0 boons",
+            "max": "",
+            "id": "-M5a-zYvjZP59m2NO7Vy"
+        },
+        {
+            "name": "repeating_attacks_-M5a-yI8-bgG5oE06OdL_attack_damage",
+            "current": "1d6 + 1",
+            "max": "",
+            "id": "-M5a0-I1mEHuNRl1bjpi"
+        },
+        {
+            "name": "power",
+            "current": "1",
+            "max": "",
+            "id": "-M5a0-TYJHFOrqxHANCn"
+        },
+        {
+            "name": "has_npcmagic",
+            "current": "1",
+            "max": "",
+            "id": "-M5a0-VCggSb8mxdlafW"
+        },
+        {
+            "name": "repeating_npcmagic_-M5a0-Z-Z22KcfLS0T7p_npcmagic_name",
+            "current": "Fire",
+            "max": "",
+            "id": "-M5a00Hr9fM2ns6LBlSE"
+        },
+        {
+            "name": "repeating_npcmagic_-M5a00PO49W8-MfCqfJw_npcmagic_name",
+            "current": "Protection",
+            "max": "",
+            "id": "-M5a01SdoOK1nUjlCNmS"
+        },
+        {
+            "name": "_reporder_repeating_npcmagic",
+            "current": "-M5a02S7kX-ZeIGFzptu,-M5a0-Z-Z22KcfLS0T7p,-M5a00PO49W8-MfCqfJw",
+            "max": "",
+            "id": "-M5a023TYDxnb8bF3Xt_"
+        },
+        {
+            "name": "repeating_npcmagic_-M5a02S7kX-ZeIGFzptu_npcmagic_name",
+            "current": "Arcana",
+            "max": "",
+            "id": "-M5a035pNdnRfR8vt9Y2"
+        },
+        {
+            "name": "repeating_npcmagic_-M5a02S7kX-ZeIGFzptu_npcmagic_spells",
+            "current": "arcane armor (2), arcane shield (1), arcane sight (1), unerring darts (1)",
+            "max": "",
+            "id": "-M5a05196Kdk0938R3TD"
+        },
+        {
+            "name": "repeating_npcmagic_-M5a0-Z-Z22KcfLS0T7p_npcmagic_spells",
+            "current": "flame missile (2), fire blast (1)",
+            "max": "",
+            "id": "-M5a05aoB8oL69dCZnd1"
+        },
+        {
+            "name": "repeating_npcmagic_-M5a00PO49W8-MfCqfJw_npcmagic_spells",
+            "current": "secure site (2)",
+            "max": "",
+            "id": "-M5a062ZdIaqYbMGf_ii"
+        },
+        {
+            "name": "repeating_traditions_-M5dK8AY3cwHrAysamlA_tradition_name",
+            "current": "Arcana",
+            "max": "",
+            "id": "-M5dK8xpnm9lB0cDnFGY"
+        },
+        {
+            "name": "remove_spell_filters",
+            "current": "0",
+            "max": "",
+            "id": "-M5dK8zcHW8s558cZ4lj"
+        },
+        {
+            "name": "repeating_traditions_-M5dK8AY3cwHrAysamlA_tradition_filter",
+            "current": "0",
+            "max": "",
+            "id": "-M5dK90O32UmqYYV94Ox"
+        },
+        {
+            "name": "repeating_traditions_-M5dK943Wr2VOnZMJigO_tradition_name",
+            "current": "Fire",
+            "max": "",
+            "id": "-M5dK9XzB8g3rPJSwkob"
+        },
+        {
+            "name": "repeating_traditions_-M5dK943Wr2VOnZMJigO_tradition_attribute",
+            "current": "WILL",
+            "max": "",
+            "id": "-M5dK9kibEmgSSSz6-Nk"
+        },
+        {
+            "name": "repeating_traditions_-M5dK9r8rwmWBsAShGzp_tradition_name",
+            "current": "Protection",
+            "max": "",
+            "id": "-M5dKAeKW2yINwCj7a4E"
+        },
+        {
+            "name": "spells_macro_var",
+            "current": "**Arcana**\n[Arcane Armor (Utility 0, 2/2)](~-M5_v_a4JE0yE5eT-cTB|repeating_spells_-m5dkam6czd4bbqw0fgj_cast), [Arcane Shield (Utility 1, 1/1)](~-M5_v_a4JE0yE5eT-cTB|repeating_spells_-m5dkuhvg2kkuxawkbua_cast), [Arcane Sight (Utility 1, 1/1)](~-M5_v_a4JE0yE5eT-cTB|repeating_spells_-m5dkuq9nx7zf8khlldc_cast), [Unerring Darts (Attack 1, 1/1)](~-M5_v_a4JE0yE5eT-cTB|repeating_spells_-m5dkvwkzr32wochzfz5_cast)\n**Fire**\n[Fire Blast (Attack 1, 01/1)](~-M5_v_a4JE0yE5eT-cTB|repeating_spells_-m5dlkaszzhn6zv2gga8_cast), [Flame Missile (Attack 0, 2/2)](~-M5_v_a4JE0yE5eT-cTB|repeating_spells_-m5dlinvf4tgbhpk3oyn_cast)\n**Protection**\n[Secure Site (Utility 0, 2/2)](~-M5_v_a4JE0yE5eT-cTB|repeating_spells_-m5dm2phvba90feone77_cast)",
+            "max": "",
+            "id": "-M5dKAg4vKObL3O9B-a1"
+        },
+        {
+            "name": "repeating_spells_-M5dKAm6cZd4bBqW0FGj_spell_description",
+            "current": "An invisible field of force springs into existence around you, granting a +2 bonus to your Defense for the duration. As well, for the duration, normal precipitation does not touch you, light wind does not affect you, and you are not discomfited by cold or heat, though you still take damage from cold and fire.",
+            "max": "",
+            "id": "-M5dKsPfzCrfBb6r7iD3"
+        },
+        {
+            "name": "repeating_spells_-M5dKAm6cZd4bBqW0FGj_spell_tradition",
+            "current": "Arcana",
+            "max": "",
+            "id": "-M5dKtatm1ZLmykwdarC"
+        },
+        {
+            "name": "repeating_spells_-M5dKAm6cZd4bBqW0FGj_spell_hide",
+            "current": "0",
+            "max": "",
+            "id": "-M5dKtceGI5QbzPEQS_b"
+        },
+        {
+            "name": "repeating_spells_-M5dKuHvG2KKuxawKbuA_spell_tradition",
+            "current": "Arcana",
+            "max": "",
+            "id": "-M5dKufBb2pPxAiRDMft"
+        },
+        {
+            "name": "repeating_spells_-M5dKuHvG2KKuxawKbuA_spell_hide",
+            "current": "0",
+            "max": "",
+            "id": "-M5dKuhByT-O_NN-mzq2"
+        },
+        {
+            "name": "repeating_spells_-M5dKuq9nx7ZF8KhLldc_spell_tradition",
+            "current": "Arcana",
+            "max": "",
+            "id": "-M5dKvOq6QUCta4ye5dH"
+        },
+        {
+            "name": "repeating_spells_-M5dKuq9nx7ZF8KhLldc_spell_hide",
+            "current": "0",
+            "max": "",
+            "id": "-M5dKvQiiQJvR-0UlLUl"
+        },
+        {
+            "name": "repeating_spells_-M5dKvWkZr32WoCHZfZ5_spell_tradition",
+            "current": "Arcana",
+            "max": "",
+            "id": "-M5dKw_UNkLc0PXuEjC0"
+        },
+        {
+            "name": "repeating_spells_-M5dKvWkZr32WoCHZfZ5_spell_hide",
+            "current": "0",
+            "max": "",
+            "id": "-M5dKwbPQTdRU_oRdfmP"
+        },
+        {
+            "name": "repeating_spells_-M5dKAm6cZd4bBqW0FGj_spell_type",
+            "current": "UTILITY",
+            "max": "",
+            "id": "-M5dKwiO9GPnNc0bRNZ1"
+        },
+        {
+            "name": "repeating_spells_-M5dKAm6cZd4bBqW0FGj_spell_castings",
+            "current": "2",
+            "max": "2",
+            "id": "-M5dKxDCvqKPfTz4NMEw"
+        },
+        {
+            "name": "repeating_spells_-M5dKAm6cZd4bBqW0FGj_spell_name",
+            "current": "Arcane Armor",
+            "max": "",
+            "id": "-M5dL5KLjJUkScK5mYLC"
+        },
+        {
+            "name": "repeating_spells_-M5dKAm6cZd4bBqW0FGj_spell_requirement",
+            "current": "You must not be wearing armor.",
+            "max": "",
+            "id": "-M5dL75zW-zQ4Cnw3H7h"
+        },
+        {
+            "name": "repeating_spells_-M5dKAm6cZd4bBqW0FGj_spell_duration",
+            "current": "4 hours",
+            "max": "",
+            "id": "-M5dL9Xc9MhmiXySmVys"
+        },
+        {
+            "name": "repeating_spells_-M5dKuHvG2KKuxawKbuA_spell_description",
+            "current": "For the duration, a barrier of energy shields you, imposing 1 bane on attack rolls against your Defense or Agility. Triggered When a creature makes an attack roll against your Defense or Agility, you can use a triggered action to cast this spell. The triggering creature makes the attack roll with 3 banes, and then the effect ends.",
+            "max": "",
+            "id": "-M5dLCD9XsJ-THW4wMBP"
+        },
+        {
+            "name": "repeating_spells_-M5dKuHvG2KKuxawKbuA_spell_name",
+            "current": "Arcane Shield",
+            "max": "",
+            "id": "-M5dLD3FfH9ujzZY7Oh7"
+        },
+        {
+            "name": "repeating_spells_-M5dKuHvG2KKuxawKbuA_spell_type",
+            "current": "UTILITY",
+            "max": "",
+            "id": "-M5dLDBrXBq2ov_q11nV"
+        },
+        {
+            "name": "repeating_spells_-M5dKuHvG2KKuxawKbuA_spell_rank",
+            "current": "1",
+            "max": "",
+            "id": "-M5dLDXPdSXxO6llGT8d"
+        },
+        {
+            "name": "repeating_spells_-M5dKuHvG2KKuxawKbuA_spell_castings",
+            "current": "1",
+            "max": "1",
+            "id": "-M5dLDZC_gPHos0c3cmQ"
+        },
+        {
+            "name": "repeating_spells_-M5dKuHvG2KKuxawKbuA_spell_duration",
+            "current": "1 minute",
+            "max": "",
+            "id": "-M5dLEYacfK1j0xa7jba"
+        },
+        {
+            "name": "repeating_spells_-M5dKuq9nx7ZF8KhLldc_spell_description",
+            "current": "For the duration, you see auras around creatures, objects, and areas affected by magic. At the GM’s discretion, you might also learn the tradition to which the magic belongs.",
+            "max": "",
+            "id": "-M5dLM0tU8_zIhDdWGDZ"
+        },
+        {
+            "name": "repeating_spells_-M5dKuq9nx7ZF8KhLldc_spell_type",
+            "current": "UTILITY",
+            "max": "",
+            "id": "-M5dLMCU-PmNYFzq1TLw"
+        },
+        {
+            "name": "repeating_spells_-M5dKuq9nx7ZF8KhLldc_spell_castings",
+            "current": "1",
+            "max": "1",
+            "id": "-M5dLMpCrH73RFUr9Ckn"
+        },
+        {
+            "name": "repeating_spells_-M5dKuq9nx7ZF8KhLldc_spell_name",
+            "current": "Arcane Sight",
+            "max": "",
+            "id": "-M5dLNhEAOTtGjL0zcTv"
+        },
+        {
+            "name": "repeating_spells_-M5dKuq9nx7ZF8KhLldc_spell_duration",
+            "current": "1 minute",
+            "max": "",
+            "id": "-M5dLOPXhA9Xd51EZyQf"
+        },
+        {
+            "name": "repeating_spells_-M5dKvWkZr32WoCHZfZ5_spell_description",
+            "current": "Seven magical darts fly from your fingertip, divided as you choose among the targets. Each dart automatically hits, provided there is an unobstructed path between you and the target. A target takes 1 damage for each dart that hits it.",
+            "max": "",
+            "id": "-M5dLWFsS8sRBDHpQJ9P"
+        },
+        {
+            "name": "repeating_spells_-M5dKvWkZr32WoCHZfZ5_spell_name",
+            "current": "Unerring Darts",
+            "max": "",
+            "id": "-M5dLXZCXJdMbi2g6lgu"
+        },
+        {
+            "name": "repeating_spells_-M5dKvWkZr32WoCHZfZ5_spell_rank",
+            "current": "1",
+            "max": "",
+            "id": "-M5dLXqCjqWtxLSQ1Sa9"
+        },
+        {
+            "name": "repeating_spells_-M5dKvWkZr32WoCHZfZ5_spell_castings",
+            "current": "1",
+            "max": "1",
+            "id": "-M5dLXs-nt8mvoB7cSER"
+        },
+        {
+            "name": "repeating_spells_-M5dKuq9nx7ZF8KhLldc_spell_rank",
+            "current": "1",
+            "max": "",
+            "id": "-M5dLZyJH5dWx8FpwTQ2"
+        },
+        {
+            "name": "repeating_spells_-M5dKvWkZr32WoCHZfZ5_spell_target",
+            "current": "Up to three creatures or objects within long range",
+            "max": "",
+            "id": "-M5dLaMMKD_ZNIbhFIxE"
+        },
+        {
+            "name": "repeating_spells_-M5dLinVF4tGbHpK3Oyn_spell_tradition",
+            "current": "Fire",
+            "max": "",
+            "id": "-M5dLk2Lt1ue3UmqFoT2"
+        },
+        {
+            "name": "repeating_spells_-M5dLinVF4tGbHpK3Oyn_spell_hide",
+            "current": "0",
+            "max": "",
+            "id": "-M5dLk5LDx-teeG1Rk5q"
+        },
+        {
+            "name": "repeating_spells_-M5dLkASZzhN6zV2ggA8_spell_tradition",
+            "current": "Fire",
+            "max": "",
+            "id": "-M5dLkSknFeNPFyJi2If"
+        },
+        {
+            "name": "repeating_spells_-M5dLkASZzhN6zV2ggA8_spell_hide",
+            "current": "0",
+            "max": "",
+            "id": "-M5dLkUq_SbOdjU-2S7z"
+        },
+        {
+            "name": "repeating_spells_-M5dLinVF4tGbHpK3Oyn_spell_description",
+            "current": "You loose a fiery missile at the target. Make a Will attack roll against the target’s Agility. On a success, the target takes 1d6 damage.",
+            "max": "",
+            "id": "-M5dLmQAkrQYC_62RgqI"
+        },
+        {
+            "name": "repeating_spells_-M5dLkASZzhN6zV2ggA8_spell_description",
+            "current": "Flames rush out from your hand, dealing 3d6 damage to everything in the area. Each creature in the area takes half the damage with a success on an Agility challenge roll.",
+            "max": "",
+            "id": "-M5dLpTgGKN5YPCaKKrY"
+        },
+        {
+            "name": "repeating_spells_-M5dLinVF4tGbHpK3Oyn_spell_name",
+            "current": "Flame Missile",
+            "max": "",
+            "id": "-M5dLq_BeX3H0UUJj3vJ"
+        },
+        {
+            "name": "repeating_spells_-M5dLinVF4tGbHpK3Oyn_spell_castings",
+            "current": "2",
+            "max": "2",
+            "id": "-M5dLqpPY55DrPTDzA1R"
+        },
+        {
+            "name": "repeating_spells_-M5dLinVF4tGbHpK3Oyn_spell_attribute",
+            "current": " (^{WILL})",
+            "max": "",
+            "id": "-M5dLr7d3ZWfD-883U-x"
+        },
+        {
+            "name": "repeating_spells_-M5dLkASZzhN6zV2ggA8_spell_attribute",
+            "current": " (^{WILL})",
+            "max": "",
+            "id": "-M5dLrVVn1SW80KSwQo3"
+        },
+        {
+            "name": "repeating_spells_-M5dLinVF4tGbHpK3Oyn_spell_target",
+            "current": "One creature or object within long range",
+            "max": "",
+            "id": "-M5dLssGbtWP7uee1fQ3"
+        },
+        {
+            "name": "repeating_spells_-M5dLinVF4tGbHpK3Oyn_spell_roll20plus",
+            "current": "The target takes 1d6 extra damage.",
+            "max": "",
+            "id": "-M5dLvVPoij7lkyEju5i"
+        },
+        {
+            "name": "repeating_spells_-M5dLinVF4tGbHpK3Oyn_spell_attack_mod",
+            "current": "@{will_mod}",
+            "max": "",
+            "id": "-M5dLvo-cTlJ3aepCa74"
+        },
+        {
+            "name": "repeating_spells_-M5dLinVF4tGbHpK3Oyn_spell_attack_formula",
+            "current": "@{die_attack} + @{spell_attack_mod} + @{spell_boons_formula}@{die_boon}k1[boons/banes]",
+            "max": "",
+            "id": "-M5dLvpuoH9D9FpiUXiw"
+        },
+        {
+            "name": "repeating_spells_-M5dLinVF4tGbHpK3Oyn_spell_boons_formula",
+            "current": "[[@{boons_banes_query} + @{spell_boons} + @{global_attack_boons} + @{global_spell_attack_boons} - @{banes_from_afflictions}]]",
+            "max": "",
+            "id": "-M5dLvpy0pGBoS5Jr9-O"
+        },
+        {
+            "name": "repeating_spells_-M5dLinVF4tGbHpK3Oyn_spell_against",
+            "current": "^{AGILITY}",
+            "max": "",
+            "id": "-M5dLwQ-jK3XpoPnP8qS"
+        },
+        {
+            "name": "repeating_spells_-M5dLinVF4tGbHpK3Oyn_spell_damage",
+            "current": "1d6",
+            "max": "",
+            "id": "-M5dLy9MTSv-Bn1Q_hjM"
+        },
+        {
+            "name": "repeating_spells_-M5dLkASZzhN6zV2ggA8_spell_rank",
+            "current": "1",
+            "max": "",
+            "id": "-M5dLyMI2Zvkt36kgAFQ"
+        },
+        {
+            "name": "repeating_spells_-M5dLkASZzhN6zV2ggA8_spell_castings",
+            "current": "01",
+            "max": "1",
+            "id": "-M5dLyODYgs_KQto0jfS"
+        },
+        {
+            "name": "repeating_spells_-M5dLkASZzhN6zV2ggA8_spell_name",
+            "current": "Fire Blast",
+            "max": "",
+            "id": "-M5dLzpm3zEQOukYiHXw"
+        },
+        {
+            "name": "repeating_spells_-M5dLkASZzhN6zV2ggA8_spell_area",
+            "current": "A cone, 3 yards long, originating from a point you can reach",
+            "max": "",
+            "id": "-M5dM06bHb5FOds0bPGx"
+        },
+        {
+            "name": "repeating_spells_-M5dLkASZzhN6zV2ggA8_spell_damage",
+            "current": "3d6",
+            "max": "",
+            "id": "-M5dM1tti6Eg05ujrZP0"
+        },
+        {
+            "name": "repeating_spells_-M5dM2PHvBa90FEONE77_spell_tradition",
+            "current": "Protection",
+            "max": "",
+            "id": "-M5dM3jryzrJzfy5Nym0"
+        },
+        {
+            "name": "repeating_spells_-M5dM2PHvBa90FEONE77_spell_hide",
+            "current": "0",
+            "max": "",
+            "id": "-M5dM3lvTQf7v79UWy4l"
+        },
+        {
+            "name": "repeating_spells_-M5dM2PHvBa90FEONE77_spell_type",
+            "current": "UTILITY",
+            "max": "",
+            "id": "-M5dM3t-HRqqPBgNzdy5"
+        },
+        {
+            "name": "repeating_spells_-M5dM2PHvBa90FEONE77_spell_castings",
+            "current": "2",
+            "max": "2",
+            "id": "-M5dM4FEkJmZhI0be906"
+        },
+        {
+            "name": "repeating_spells_-M5dM2PHvBa90FEONE77_spell_name",
+            "current": "Secure Site",
+            "max": "",
+            "id": "-M5dM6UNVwb2XaGzFQgW"
+        },
+        {
+            "name": "repeating_spells_-M5dM2PHvBa90FEONE77_spell_description",
+            "current": "An invisible field springs into existence along the circumference of the area. For the duration, you know whenever a Size 1/2 or larger creature moves into the area from outside it. This knowledge wakes you if you are asleep.",
+            "max": "",
+            "id": "-M5dMA08PHCdNXK63rWf"
+        },
+        {
+            "name": "repeating_spells_-M5dM2PHvBa90FEONE77_spell_area",
+            "current": "A sphere with a 10-yard radius centered on a point you can reach",
+            "max": "",
+            "id": "-M5dMAOr6gcpnwv5L1-_"
+        },
+        {
+            "name": "repeating_spells_-M5dM2PHvBa90FEONE77_spell_duration",
+            "current": "6 hours",
+            "max": "",
+            "id": "-M5dMBB7xGzWW378jeHY"
+        }
+    ],
+    "abilities": [
+        {
+            "name": "0:Staff",
+            "description": "",
+            "istokenaction": true,
+            "action": "%{@{character_id}|repeating_attacks_$0_Roll}",
+            "order": -1
+        },
+        {
+            "name": "1:Spells",
+            "description": "",
+            "istokenaction": true,
+            "action": "%{@{character_id}|spells_macro}",
+            "order": -1
+        },
+        {
+            "name": "2:Challenge-Rolls",
+            "description": "",
+            "istokenaction": true,
+            "action": "/w gm [Strength](~New Ability 0)[Agility](~New Ability 1)[Intellect](~New Ability 2)[Will](~New Ability 3)",
+            "order": -1
+        },
+        {
+            "name": "New Ability 0",
+            "description": "",
+            "istokenaction": false,
+            "action": "%{@{character_id}|Strength}",
+            "order": -1
+        },
+        {
+            "name": "New Ability 1",
+            "description": "",
+            "istokenaction": false,
+            "action": "%{@{character_id}|Agility}",
+            "order": -1
+        },
+        {
+            "name": "New Ability 2",
+            "description": "",
+            "istokenaction": false,
+            "action": "%{@{character_id}|Intellect}",
+            "order": -1
+        },
+        {
+            "name": "New Ability 3",
+            "description": "",
+            "istokenaction": false,
+            "action": "%{@{character_id}|Will}",
+            "order": -1
+        }
+    ]
+}
