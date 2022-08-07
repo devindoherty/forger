@@ -107,7 +107,36 @@ for i in data['attribs']:
 
     # Special Actions
     if "repeating_specialactions" and "specialaction_name" in i["name"]:
+        start = i["name"].index('-')
+        end = i["name"].index('_', start+1)
+        feature_id = i["name"][start+1:end]
         print(f"{i['current']} Special Action Found")
+        template["items"].append(
+            {
+                "_id": feature_id,
+                "name": i["current"],
+                "type": "specialaction",
+                "img": "systems/demonlord/assets/icons/skills/fist.webp",
+                "data": {
+                    "description": ""
+                },
+                "effects": [],
+                "folder": "null",
+                "sort": 0,
+                "permission": {
+                    "default": 0,
+                    "KW6XDTTvkV8qWXT9": 3
+                },
+                "flags": {}
+            })
+
+    if "specialaction_description" in i["name"]:
+        start = i["name"].index('-')
+        end = i["name"].index('_', start+1)
+        feature_id = i["name"][start+1:end]
+        for j in template["items"]:
+            if j["_id"] == feature_id:
+                j["data"]["description"] = i["current"]
     
     # Attacks
     if "repeating_attacks" and "attack_name" in i["name"]:
@@ -125,8 +154,8 @@ for i in data['attribs']:
                     "description": "",
                     "action": {
                         "active": "true",
-                        "attack": "",
-                        "against": "",
+                        "attack": "Strength",
+                        "against": "Defense",
                         "damageactive": "",
                         "damage": "",
                         "damagetype": "",
@@ -196,6 +225,21 @@ for i in data['attribs']:
                 },
                 "flags": {}
             })
+    if "attack_damage" in i["name"]:
+        start = i["name"].index('-')
+        end = i["name"].index('_', start+1)
+        feature_id = i["name"][start+1:end]
+        for j in template["items"]:
+            if j["_id"] == feature_id:
+                j["data"]["action"]["damage"] = i["current"]
+
+    if "attack_boons" in i["name"]:
+        start = i["name"].index('-')
+        end = i["name"].index('_', start+1)
+        feature_id = i["name"][start+1:end]
+        for j in template["items"]:
+            if j["_id"] == feature_id:
+                j["data"]["action"]["boonsbanes"] = i["current"]
     
 # def id_finder(start, end)
 
